@@ -1,0 +1,29 @@
+_repo: The-TownIts-Memorable-Characters-and-Events_42060
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42060-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hunt, Leigh
+    alias: Hunt, James Henry Leigh
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '3612'
+    url: http://www.gutenberg.org/2009/agents/3612
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
+description: ''
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- History'
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+title: 'The Town: Its Memorable Characters and Events'
+url: http://www.gutenberg.org/ebooks/42060
